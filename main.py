@@ -26,3 +26,4 @@ class ZipfLaw:
 test = ZipfLaw(string=essaystr)
 print(test.getRank())
 
+
